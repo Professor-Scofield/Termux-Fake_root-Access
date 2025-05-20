@@ -35,4 +35,4 @@ You can uninstall root with the following commands wihch are shown here:
 <pre>./uninstall.sh</pre>
 
 # Copyright
-<pre>© Copyright credits goes to Adarsh Addee. This tool is public tool anyone can use this tool.</pre>
+<pre>© Copyright credits goes to Professor-Scofield. This tool is public tool anyone can use this tool.</pre>
