@@ -1,8 +1,8 @@
 #! /bin/bash
 
-# Created By Adarsh Addee
+# Created By professor-Scofield
 # Aim: To Access Root Privileges in Termux
-# Date: 27 Aug 2021
+# Date: 20 May 2025
 # Note: THIS TOOL WILL NOT GIVE YOU REAL ROOT ACCESS
 
 clear
