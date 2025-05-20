@@ -6,7 +6,7 @@
 </centre>
 
 # Support
-> hey there, You can subscribe <a href="https://www.youtube.com/@CyberHubAcademy">Mr Idealhat</a> for interesting videos OR follow <a href="https://www.youtube.com/@CyberHubAcademy">Mr Idealhat</a> Blogger website for interesting blogs. Search <a href="https://www.youtube.com/@CyberHubAcademy">Adarsh Addee</a> on YouTube and subscribe for my vlog videos. 
+> Hey there, You can subscribe <a href="https://www.youtube.com/@CyberHubAcademy">Cyberhub Academy <for interesting videos OR follow <a href="https://www.youtube.com/@CyberHubAcademy">Cyberhub Academy</a> Blogger website for interesting blogs. Search <a href="https://www.youtube.com/@CyberHubAcademy">Cyberhub Academy</a> on YouTube and subscribe for my vlog videos. 
 
 # Fake Root Privileges
 This tool helps you to access the fake root privileges in termux. To access the fake root privileges in termux, just type <pre>fakeroot</pre> in termux. And here you go, Now you have gain the fake root privileges access in termux.
